@@ -1,0 +1,2 @@
+# skasc
+College Management System
